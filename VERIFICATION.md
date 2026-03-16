@@ -3,16 +3,16 @@
 ## MCP Server Screenshots
 
 Rolldice working in Claude Desktop  
-[![screenshot](ai-agent-dev-setup-Pocot/screenshots/rolldice.png)]
+![alt text](ai-agent-dev-setup-Pocot/screenshots/rolldice.png)
 
 Bootcamp AI Agent server working  
-[![screenshot](ai-agent-dev-setup-Pocot/screenshots/plawrith.png)]
+![\[(ai-agent-dev-setup-Pocot/screenshots/plawrith.png)\]](ai-agent-dev-setup-Pocot/screenshots/plawrith.png)
 
 Calendar Booking server working  
 [screenshot]
 
 GitHub MCP server working  
-[![screenshot](ai-agent-dev-setup-Pocot/screenshots/commit1.png)]
+![\[(ai-agent-dev-setup-Pocot/screenshots/commit1.png)\]](ai-agent-dev-setup-Pocot/screenshots/commit1.png)
 
 ---
 

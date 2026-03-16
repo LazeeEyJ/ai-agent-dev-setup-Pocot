@@ -9,11 +9,11 @@ Workshop Cohort: [your cohort]
 
 ## Node.js Installed
 Screenshot of:
-node --version![alt text](ai-agent-dev-setup-Pocot/screenshots/vercheck.png)
+node --version![alt text](screenshots/vercheck.png)
 
 ## Git Installed
 Screenshot of:
-git --![version](ai-agent-dev-setup-Pocot/screenshots/vercheck.png)
+git --![version](screenshots/vercheck.png)
 
 ## VS Code Insider with GitHub Copilot
 Screenshot showing Copilot enabled.

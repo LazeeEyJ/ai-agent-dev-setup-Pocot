@@ -2,36 +2,44 @@
 
 ## MCP Server Screenshots
 
-Rolldice working in Claude Desktop  
-[screenshot]
+### 🎲 Rolldice — Working in Claude Desktop
+![Rolldice MCP Working](screenshots/roll%20dice.png)
 
-Bootcamp AI Agent server working  
-[screenshot]
+---
 
-Calendar Booking server working  
-[screenshot]
+### 🤖 Bootcamp AI Agent — Server Working
+![Bootcamp AI Agent Working](screenshots/bootcamp-ai-agent-playwrigth.png)
 
-GitHub MCP server working  
-[screenshot]
+---
+
+### 📅 Calendar Booking — Server Working
+![Calendar Booking Working](screenshots/bootcamp-ai-agent-playwrigth.png)
+
+---
+
+### 🐙 GitHub MCP — Server Working
+![GitHub MCP Working](screenshots/githubmcp.png)
 
 ---
 
 ## GitHub MCP Usage Example
 
-Prompt:
-"Read the files in my repository."
+**Prompt given to Claude:**  
+> "Read the files in my repository."
 
-Result:
-Claude successfully accessed the repository and listed files.
+**Result:**  
+Claude successfully accessed the repository via the GitHub MCP server and listed all files including `README.md`, `reflection.md`, `VERIFICATION.md`, and the `/mcp-configs/` folder contents.
 
 ---
 
 ## Git Commit History
 
-Example commits:
+The repository was built with meaningful commits showing a proper version control workflow:
 
-1. Initial repository setup
-2. Added MCP configuration files
-3. Added README documentation
-4. Added reflection file
-5. Added verification screenshots
+1. `Initial repository setup`
+2. `Added MCP configuration files`
+3. `Added README with environment checklist and MCP explanations`
+4. `Added reflection on AI Agent Developer mindset`
+5. `Added verification screenshots and VERIFICATION.md`
+
+![Git Commit History](screenshots/commit1.png)

@@ -3,22 +3,22 @@
 ## MCP Server Screenshots
 
 ### 🎲 Rolldice — Working in Claude Desktop
-![Rolldice MCP Working](screenshots/rolldice.png)
+![Rolldice MCP Working](screenshots/roll%20dice.png)
 
 ---
 
 ### 🤖 Bootcamp AI Agent — Server Working
-![Bootcamp AI Agent Working](screenshots/plawrith.png)
+![Bootcamp AI Agent Working](screenshots/bootcamp-ai-agent-playwrigth.png)
 
 ---
 
 ### 📅 Calendar Booking — Server Working
-![Calendar Booking Working](screenshots/plawrith.png)
+![Calendar Booking Working](screenshots/mcp%20developer.png)
 
 ---
 
 ### 🐙 GitHub MCP — Server Working
-![GitHub MCP Working](screenshots/rolldice.png)
+![GitHub MCP Working](screenshots/githubmcp.png)
 
 ---
 

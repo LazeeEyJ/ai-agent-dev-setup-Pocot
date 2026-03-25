@@ -21,13 +21,13 @@ Screenshot of `git --version` command:
 
 ### ✅ VS Code Insider with GitHub Copilot Enabled
 Screenshot showing VS Code Insider running with GitHub Copilot enabled:  
-![VS Code Insider](screenshots/bootcamp-ai-agent-playwrigth.png)
+![VS Code Insider](screenshots/plawrith.png)
 
 ---
 
 ### ✅ Claude Desktop with All 4 MCP Servers Connected
 Screenshot showing Claude Desktop open with all 4 MCP servers:  
-![Claude Desktop MCP](screenshots/roll%20dice.png)
+![Claude Desktop MCP](screenshots/rolldice.png)
 
 ---
 
